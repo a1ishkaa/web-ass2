@@ -1,7 +1,7 @@
 
 # Assignment 2 - Advanced CSS
 
-**Name:** Alisher Sakenov  
+**Name:** Alisher Yeskermes  
 **Group:** IT-2501
 
 ## Task 0 - Navigation Bar
